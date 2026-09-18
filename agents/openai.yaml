@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lumiere Skincare Combo"
+  short_description: "依膚況與需求搭配若美芙產品，並生成精品社群保養商品圖片"
+  default_prompt: "使用 $lumiere-skincare-combo 為乾燥熟齡肌搭配四件組，並生成高級奶油極簡風的 IG 4:5 商品圖。"

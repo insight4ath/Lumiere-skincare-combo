@@ -1,0 +1,1674 @@
+{
+  "schema_version": "1.0",
+  "brand": "Lumière de Vie／若美芙",
+  "market": "TW",
+  "verified_date": "2026-09-17",
+  "record_count": 32,
+  "price_coverage": "missing",
+  "notes": [
+    "Ingredients and functions are transcribed from the audited source workbook.",
+    "Need tags, routine roles, active flags and usage constraints are derived helper fields, not manufacturer claims.",
+    "Do not infer missing price, full INCI, skin diagnosis or undisclosed material data."
+  ],
+  "products": [
+    {
+      "id": "LDV-TW-001",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 1,
+      "product_type": "formula",
+      "name_zh_tw": "NAD青春霜",
+      "routine_roles": [
+        "moisturizer",
+        "anti-aging-treatment"
+      ],
+      "key_ingredients_text": "5%肉豆蔻醇煙酸酯、銀杏幹細胞萃取、白藜蘆醇、乳油木果油、植物角鯊烷、辛酸／癸酸甘油三酯",
+      "key_ingredients": [
+        "5%肉豆蔻醇煙酸酯",
+        "銀杏幹細胞萃取",
+        "白藜蘆醇",
+        "乳油木果油",
+        "植物角鯊烷",
+        "辛酸／癸酸甘油三酯"
+      ],
+      "functions_text": "支援肌膚健康的NAD路徑；保濕、舒緩、淡化乾燥細紋，維持彈性與光澤",
+      "derived_need_tags": [
+        "anti-aging",
+        "antioxidant",
+        "dryness",
+        "fine-lines",
+        "firmness",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/2002591897-p.xhtml",
+      "audit_note": "台灣與官方海外頁交叉比對；NAD相關說明另以美國官方頁複核。",
+      "image": "assets/products/LDV-TW-001.jpg",
+      "original_image_filename": "若美芙™NAD青春霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-002",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 2,
+      "product_type": "formula",
+      "name_zh_tw": "火山泥去角質面膜",
+      "routine_roles": [
+        "wash-off-mask",
+        "exfoliant"
+      ],
+      "key_ingredients_text": "浮石、AHA複合物、高嶺土、膨潤土、尿囊素、甜杏仁油、橄欖油、β-葡聚糖、綠茶萃取",
+      "key_ingredients": [
+        "浮石",
+        "AHA複合物",
+        "高嶺土",
+        "膨潤土",
+        "尿囊素",
+        "甜杏仁油",
+        "橄欖油",
+        "β-葡聚糖",
+        "綠茶萃取"
+      ],
+      "functions_text": "物理及酸類去角質、吸附多餘油脂、清潔毛孔；舒緩並改善粗糙暗沉",
+      "derived_need_tags": [
+        "brightening",
+        "cleansing",
+        "dryness",
+        "exfoliation",
+        "oil-control",
+        "pores",
+        "soothing"
+      ],
+      "active_flags": [
+        "exfoliating-acid",
+        "physical-exfoliant"
+      ],
+      "usage_constraints": [
+        "do-not-layer-same-routine-with-retinoid",
+        "introduce-gradually",
+        "use-daily-sunscreen"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/794413354-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-002.jpg",
+      "original_image_filename": "若美芙™火山泥去角質面膜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-003",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 3,
+      "product_type": "formula",
+      "name_zh_tw": "維他命B3極效舒妍精華",
+      "routine_roles": [
+        "serum"
+      ],
+      "key_ingredients_text": "10%菸鹼醯胺；Aquacell®（西瓜、蘋果、扁豆萃取＋Sodium PCA＋乳酸鈉）",
+      "key_ingredients": [
+        "10%菸鹼醯胺",
+        "Aquacell®（西瓜、蘋果、扁豆萃取＋Sodium PCA＋乳酸鈉）"
+      ],
+      "functions_text": "保濕、控油、均勻提亮膚色、淡化細紋；減少乾燥脫屑並舒緩肌膚",
+      "derived_need_tags": [
+        "brightening",
+        "dryness",
+        "fine-lines",
+        "hydration",
+        "oil-control",
+        "soothing"
+      ],
+      "active_flags": [
+        "exfoliating-acid",
+        "niacinamide"
+      ],
+      "usage_constraints": [
+        "do-not-layer-same-routine-with-retinoid",
+        "introduce-gradually",
+        "use-daily-sunscreen"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/1894335797-p.xhtml",
+      "audit_note": "台灣官方FAQ明確確認菸鹼醯胺濃度為10%。",
+      "image": "assets/products/LDV-TW-003.jpg",
+      "original_image_filename": "若美芙™維他命B3極效舒妍精華.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-004",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 4,
+      "product_type": "formula",
+      "name_zh_tw": "杏仁酸提亮煥膚精華液",
+      "routine_roles": [
+        "serum",
+        "exfoliant"
+      ],
+      "key_ingredients_text": "6%杏仁酸＋2%乳酸、Betafin® BP20、尿囊素、17種蔬果萃取",
+      "key_ingredients": [
+        "6%杏仁酸＋2%乳酸",
+        "Betafin® BP20",
+        "尿囊素",
+        "17種蔬果萃取"
+      ],
+      "functions_text": "溫和煥膚、改善粗糙與膚色不均、提亮；同時保濕、舒緩",
+      "derived_need_tags": [
+        "brightening",
+        "dryness",
+        "exfoliation",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [
+        "exfoliating-acid"
+      ],
+      "usage_constraints": [
+        "do-not-layer-same-routine-with-retinoid",
+        "introduce-gradually",
+        "use-daily-sunscreen"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/2009863737-p.xhtml",
+      "audit_note": "海外頁濃度文字不同；以台灣販售版本6%杏仁酸＋2%乳酸為準。",
+      "image": "assets/products/LDV-TW-004.jpg",
+      "original_image_filename": "若美芙™杏仁酸提亮煥膚精華液.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-005",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 5,
+      "product_type": "formula",
+      "name_zh_tw": "長效潤澤護手身體霜－攜帶型",
+      "routine_roles": [
+        "body-moisturizer"
+      ],
+      "key_ingredients_text": "乳油木果油、葵花籽油、椰子油",
+      "key_ingredients": [
+        "乳油木果油",
+        "葵花籽油",
+        "椰子油"
+      ],
+      "functions_text": "長效滋潤、預防乾燥粗糙，使肌膚柔滑",
+      "derived_need_tags": [
+        "body-care",
+        "dryness",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1986751565-p.xhtml",
+      "audit_note": "與正裝核心配方相同；57g攜帶尺寸。",
+      "image": "assets/products/LDV-TW-005.jpg",
+      "original_image_filename": "若美芙™長效潤澤護手身體霜 - 攜帶型.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-006",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 6,
+      "product_type": "formula",
+      "name_zh_tw": "長效潤澤護手身體霜",
+      "routine_roles": [
+        "body-moisturizer"
+      ],
+      "key_ingredients_text": "乳油木果油、葵花籽油、椰子油",
+      "key_ingredients": [
+        "乳油木果油",
+        "葵花籽油",
+        "椰子油"
+      ],
+      "functions_text": "滋潤與封存水分、舒緩乾燥，改善身體肌膚粗糙且不易黏膩",
+      "derived_need_tags": [
+        "body-care",
+        "dryness",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/895917290-p.xhtml",
+      "audit_note": "台灣頁與澳洲官方頁交叉比對核心配方。",
+      "image": "assets/products/LDV-TW-006.jpg",
+      "original_image_filename": "若美芙™長效潤澤護手身體霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-007",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 7,
+      "product_type": "formula",
+      "name_zh_tw": "藍銅胜肽活膚精華乳",
+      "routine_roles": [
+        "serum",
+        "barrier-treatment"
+      ],
+      "key_ingredients_text": "GHK-Cu藍銅胜肽、肉豆蔻醇煙酸酯、羥基積雪草苷、HAPA-5藍環章魚仿生肽、玻尿酸、維生素E、尿囊素",
+      "key_ingredients": [
+        "GHK-Cu藍銅胜肽",
+        "肉豆蔻醇煙酸酯",
+        "羥基積雪草苷",
+        "HAPA-5藍環章魚仿生肽",
+        "玻尿酸",
+        "維生素E",
+        "尿囊素"
+      ],
+      "functions_text": "緊緻、柔滑及維持彈性；舒緩、強化保濕屏障並提升肌膚光澤",
+      "derived_need_tags": [
+        "anti-aging",
+        "barrier-support",
+        "firmness",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/2026170400-p.xhtml",
+      "audit_note": "以台灣官方商品頁成分與功效文字整理。",
+      "image": "assets/products/LDV-TW-007.jpg",
+      "original_image_filename": "若美芙™藍銅胜肽活膚精華乳.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-008",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 8,
+      "product_type": "formula",
+      "name_zh_tw": "3重玻尿酸保濕精華",
+      "routine_roles": [
+        "serum",
+        "hydration-treatment"
+      ],
+      "key_ingredients_text": "三種分子大小的玻尿酸／玻尿酸鈉",
+      "key_ingredients": [
+        "三種分子大小的玻尿酸／玻尿酸鈉"
+      ],
+      "functions_text": "多層次補水、柔滑與澎潤肌膚，改善乾燥造成的細紋",
+      "derived_need_tags": [
+        "dryness",
+        "fine-lines",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1954670336-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-008.jpg",
+      "original_image_filename": "若美芙™3重玻尿酸保濕精華.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-009",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 9,
+      "product_type": "formula",
+      "name_zh_tw": "胜肽賦活亮眼霜",
+      "routine_roles": [
+        "eye-cream"
+      ],
+      "key_ingredients_text": "Eyeseryl®乙醯四胜肽-5、2%四己基癸醇抗壞血酸酯、Smarteen™植物複合物、RonaFlair® Balance Gold",
+      "key_ingredients": [
+        "Eyeseryl®乙醯四胜肽-5",
+        "2%四己基癸醇抗壞血酸酯",
+        "Smarteen™植物複合物",
+        "RonaFlair® Balance Gold"
+      ],
+      "functions_text": "保濕及柔滑眼周；改善暗沉、細紋與疲憊外觀；礦物導光成分提供立即視覺提亮",
+      "derived_need_tags": [
+        "anti-aging",
+        "antioxidant",
+        "brightening",
+        "eye-area",
+        "fine-lines",
+        "hydration"
+      ],
+      "active_flags": [
+        "vitamin-c"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/2025137839-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-009.jpg",
+      "original_image_filename": "若美芙™胜肽賦活亮眼霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-010",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 10,
+      "product_type": "formula",
+      "name_zh_tw": "A醇抗皺修護精華乳",
+      "routine_roles": [
+        "serum",
+        "retinoid-treatment"
+      ],
+      "key_ingredients_text": "A醇、Poly-Pore® 120 RE膠囊化A醇",
+      "key_ingredients": [
+        "A醇",
+        "Poly-Pore® 120 RE膠囊化A醇"
+      ],
+      "functions_text": "促進角質更新、改善細紋皺紋及粗糙；緩釋系統提升穩定度並減少刺激感",
+      "derived_need_tags": [
+        "anti-aging",
+        "dryness",
+        "exfoliation",
+        "fine-lines"
+      ],
+      "active_flags": [
+        "retinoid"
+      ],
+      "usage_constraints": [
+        "do-not-layer-same-routine-with-strong-exfoliant",
+        "introduce-gradually-at-night",
+        "pregnancy-breastfeeding-seek-medical-guidance",
+        "use-daily-sunscreen"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/1825031108-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-010.jpg",
+      "original_image_filename": "若美芙™A醇抗皺修護精華乳.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-011",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 11,
+      "product_type": "formula",
+      "name_zh_tw": "極致亮白防曬乳SPF50",
+      "routine_roles": [
+        "sunscreen"
+      ],
+      "key_ingredients_text": "Avobenzone 3%、Homosalate 10%、Octisalate 5%、Octocrylene 10%；乙基間苯二酚、Dimethicone",
+      "key_ingredients": [
+        "Avobenzone 3%",
+        "Homosalate 10%",
+        "Octisalate 5%",
+        "Octocrylene 10%",
+        "乙基間苯二酚",
+        "Dimethicone"
+      ],
+      "functions_text": "SPF50 UVA／UVB防護；提亮均勻膚色；減少水分流失並使膚觸柔滑",
+      "derived_need_tags": [
+        "brightening",
+        "hydration",
+        "sun-protection"
+      ],
+      "active_flags": [
+        "sunscreen"
+      ],
+      "usage_constraints": [
+        "apply-as-final-morning-skincare-step",
+        "not-water-resistant"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/1986458528-p.xhtml",
+      "audit_note": "台灣官方頁揭露防曬活性成分；非防水型，游泳或大量流汗應改用防水防曬品。",
+      "image": "assets/products/LDV-TW-011.jpg",
+      "original_image_filename": "若美芙™極致亮白防曬乳SPF50.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-012",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 12,
+      "product_type": "formula",
+      "name_zh_tw": "彈力新生精華液",
+      "routine_roles": [
+        "serum",
+        "anti-aging-treatment"
+      ],
+      "key_ingredients_text": "Juvenessence®海藻萃取、補骨脂酚、乙基間苯二酚、脂溶性維生素C、角鯊烷、乙醯葡萄糖胺、咖啡因、尿囊素、積雪草、維生素E",
+      "key_ingredients": [
+        "Juvenessence®海藻萃取",
+        "補骨脂酚",
+        "乙基間苯二酚",
+        "脂溶性維生素C",
+        "角鯊烷",
+        "乙醯葡萄糖胺",
+        "咖啡因",
+        "尿囊素",
+        "積雪草",
+        "維生素E"
+      ],
+      "functions_text": "緊緻柔滑、淡化細紋；提亮均勻膚色、保濕與支援肌膚屏障",
+      "derived_need_tags": [
+        "antioxidant",
+        "barrier-support",
+        "brightening",
+        "fine-lines",
+        "firmness",
+        "hydration"
+      ],
+      "active_flags": [
+        "bakuchiol",
+        "vitamin-c"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/794413355-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-012.jpg",
+      "original_image_filename": "若美芙™彈力新生精華液.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-013",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 13,
+      "product_type": "formula",
+      "name_zh_tw": "賦活煥顏精華油",
+      "routine_roles": [
+        "facial-oil"
+      ],
+      "key_ingredients_text": "二甲基甲氧基苯並二氫吡喃醇、葵花籽油、酪梨油、葡萄籽油、杏桃核油",
+      "key_ingredients": [
+        "二甲基甲氧基苯並二氫吡喃醇",
+        "葵花籽油",
+        "酪梨油",
+        "葡萄籽油",
+        "杏桃核油"
+      ],
+      "functions_text": "滋養、鎖水、抗環境氧化壓力；改善暗沉及乾燥紋，使肌膚柔潤有光澤",
+      "derived_need_tags": [
+        "brightening",
+        "dryness",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1943471513-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-013.jpg",
+      "original_image_filename": "若美芙™賦活煥顏精華油.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-014",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 14,
+      "product_type": "formula",
+      "name_zh_tw": "煥采活力果凍眼膜",
+      "routine_roles": [
+        "eye-mask"
+      ],
+      "key_ingredients_text": "菸鹼醯胺、尿囊素、甘油、玻尿酸、咖啡因",
+      "key_ingredients": [
+        "菸鹼醯胺",
+        "尿囊素",
+        "甘油",
+        "玻尿酸",
+        "咖啡因"
+      ],
+      "functions_text": "冰涼舒緩、補水柔滑；提亮眼下暗沉並改善疲憊外觀",
+      "derived_need_tags": [
+        "brightening",
+        "eye-area",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [
+        "niacinamide"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1898526197-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-014.jpg",
+      "original_image_filename": "若美芙™煥采活力果凍眼膜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-015",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 15,
+      "product_type": "formula",
+      "name_zh_tw": "維他命C美白緊緻精華液",
+      "routine_roles": [
+        "serum",
+        "antioxidant-treatment"
+      ],
+      "key_ingredients_text": "10%抗壞血酸；甘油葡糖苷、Ectoin",
+      "key_ingredients": [
+        "10%抗壞血酸",
+        "甘油葡糖苷",
+        "Ectoin"
+      ],
+      "functions_text": "抗氧化、提亮及均勻膚色；淡化細紋與色斑外觀並增加保濕度",
+      "derived_need_tags": [
+        "antioxidant",
+        "brightening",
+        "fine-lines",
+        "firmness",
+        "hydration"
+      ],
+      "active_flags": [
+        "vitamin-c"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1850139959-p.xhtml",
+      "audit_note": "台灣官方FAQ明確確認抗壞血酸濃度為10%；美國官方頁交叉複核。",
+      "image": "assets/products/LDV-TW-015.jpg",
+      "original_image_filename": "若美芙™維他命C美白緊緻精華液.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-016",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 16,
+      "product_type": "formula",
+      "name_zh_tw": "青春抗皺生物纖維面膜",
+      "routine_roles": [
+        "sheet-mask"
+      ],
+      "key_ingredients_text": "Sytenol® A補骨脂酚、HAPA-5仿生肽、生物纖維載體",
+      "key_ingredients": [
+        "Sytenol® A補骨脂酚",
+        "HAPA-5仿生肽",
+        "生物纖維載體"
+      ],
+      "functions_text": "密集補水、舒緩及支援屏障；調理油脂、均勻膚色並改善老化外觀",
+      "derived_need_tags": [
+        "anti-aging",
+        "barrier-support",
+        "hydration",
+        "oil-control",
+        "soothing"
+      ],
+      "active_flags": [
+        "bakuchiol"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1986751633-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-016.jpg",
+      "original_image_filename": "若美芙™青春抗皺生物纖維面膜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-017",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 17,
+      "product_type": "formula",
+      "name_zh_tw": "亮妍保濕化妝水",
+      "routine_roles": [
+        "toner",
+        "mild-exfoliant"
+      ],
+      "key_ingredients_text": "乳酸、尿囊素；配方另含Sodium PCA、柳樹皮、蘆薈等",
+      "key_ingredients": [
+        "乳酸",
+        "尿囊素",
+        "配方另含Sodium PCA",
+        "柳樹皮",
+        "蘆薈等"
+      ],
+      "functions_text": "溫和去除老廢角質及殘餘油脂；保濕、舒緩並改善粗糙暗沉",
+      "derived_need_tags": [
+        "brightening",
+        "dryness",
+        "exfoliation",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [
+        "exfoliating-acid"
+      ],
+      "usage_constraints": [
+        "do-not-layer-same-routine-with-retinoid",
+        "introduce-gradually",
+        "use-daily-sunscreen"
+      ],
+      "components": [],
+      "official_url": "https://tw.shop.com/895917293-p.xhtml",
+      "audit_note": "台灣頁與美國官方頁交叉比對。",
+      "image": "assets/products/LDV-TW-017.jpg",
+      "original_image_filename": "若美芙™亮妍保濕化妝水.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-018",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 18,
+      "product_type": "formula",
+      "name_zh_tw": "紅妍保濕水凝霜（蝦紅素）",
+      "routine_roles": [
+        "moisturizer",
+        "barrier-treatment"
+      ],
+      "key_ingredients_text": "AstaReal®蝦紅素、Ceramosides HP神經醯胺脂質、AesthiGel紅藻多醣、PhytoSpherix®肝醣",
+      "key_ingredients": [
+        "AstaReal®蝦紅素",
+        "Ceramosides HP神經醯胺脂質",
+        "AesthiGel紅藻多醣",
+        "PhytoSpherix®肝醣"
+      ],
+      "functions_text": "抗氧化、密集保濕、維持屏障；提升光澤與柔滑度，淡化乾燥細紋",
+      "derived_need_tags": [
+        "antioxidant",
+        "barrier-support",
+        "dryness",
+        "fine-lines",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1875095385-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-018.jpg",
+      "original_image_filename": "若美芙™紅妍保濕水凝霜(蝦紅素).jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-019",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 19,
+      "product_type": "formula",
+      "name_zh_tw": "清爽潔膚凝膠",
+      "routine_roles": [
+        "cleanser"
+      ],
+      "key_ingredients_text": "黃瓜萃取；官方頁未另外點名主要清潔界面活性劑",
+      "key_ingredients": [
+        "黃瓜萃取",
+        "官方頁未另外點名主要清潔界面活性劑"
+      ],
+      "functions_text": "洗除污垢與多餘油脂、清新並調理肌膚",
+      "derived_need_tags": [
+        "cleansing",
+        "oil-control"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1974082124-p.xhtml",
+      "audit_note": "未推測官方頁未列出的界面活性劑。",
+      "image": "assets/products/LDV-TW-019.jpg",
+      "original_image_filename": "若美芙™清爽潔膚凝膠.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd",
+        "named_primary_surfactants"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-020",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 20,
+      "product_type": "formula",
+      "name_zh_tw": "超導激活精華液",
+      "routine_roles": [
+        "serum",
+        "instant-firming-treatment"
+      ],
+      "key_ingredients_text": "Zanthalene®花椒果萃取、Neodermyl®銅胺基酸複合物、Liftonin®-Xpress、CeraFluid神經醯胺3",
+      "key_ingredients": [
+        "Zanthalene®花椒果萃取",
+        "Neodermyl®銅胺基酸複合物",
+        "Liftonin®-Xpress",
+        "CeraFluid神經醯胺3"
+      ],
+      "functions_text": "提供暫時性的立即緊緻外觀、撫平細紋；增加豐潤度、保濕及強化屏障",
+      "derived_need_tags": [
+        "barrier-support",
+        "fine-lines",
+        "firmness",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1167078858-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-020.jpg",
+      "original_image_filename": "若美芙™超導激活精華液.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-021",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 21,
+      "product_type": "formula",
+      "name_zh_tw": "清新保濕蘆薈霜",
+      "routine_roles": [
+        "moisturizer",
+        "soothing-treatment"
+      ],
+      "key_ingredients_text": "甘油、庫拉索蘆薈葉汁、玻尿酸鈉",
+      "key_ingredients": [
+        "甘油",
+        "庫拉索蘆薈葉汁",
+        "玻尿酸鈉"
+      ],
+      "functions_text": "輕盈保濕、舒緩乾燥或刮鬍後不適，維持柔滑與彈性",
+      "derived_need_tags": [
+        "dryness",
+        "firmness",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1974082156-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-021.jpg",
+      "original_image_filename": "若美芙™清新保濕蘆薈霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-022",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 22,
+      "product_type": "formula",
+      "name_zh_tw": "美白活膚雙效青春露",
+      "routine_roles": [
+        "essence"
+      ],
+      "key_ingredients_text": "蘆薈葉汁、3-O-乙基抗壞血酸、酵母發酵物＋葡萄萃取＋精胺酸",
+      "key_ingredients": [
+        "蘆薈葉汁",
+        "3-O-乙基抗壞血酸",
+        "酵母發酵物＋葡萄萃取＋精胺酸"
+      ],
+      "functions_text": "保濕舒緩、提亮均勻膚色；促進溫和角質更新，使膚觸細緻並改善毛孔外觀",
+      "derived_need_tags": [
+        "anti-aging",
+        "antioxidant",
+        "brightening",
+        "exfoliation",
+        "hydration",
+        "pores",
+        "soothing"
+      ],
+      "active_flags": [
+        "vitamin-c"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1983872407-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-022.jpg",
+      "original_image_filename": "若美芙™美白活膚雙效青春露.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-023",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 23,
+      "product_type": "formula",
+      "name_zh_tw": "活顏保濕噴霧／舒緩爽膚水",
+      "routine_roles": [
+        "mist",
+        "toner"
+      ],
+      "key_ingredients_text": "Reversalys 30（角叉菜膠鈉＋叉珊藻萃取）、CM-Glucan® β-葡聚糖衍生物",
+      "key_ingredients": [
+        "Reversalys 30（角叉菜膠鈉＋叉珊藻萃取）",
+        "CM-Glucan® β-葡聚糖衍生物"
+      ],
+      "functions_text": "隨時補水、舒緩並提升緊緻感；改善乾燥細紋與疲倦暗沉外觀",
+      "derived_need_tags": [
+        "brightening",
+        "dryness",
+        "fine-lines",
+        "firmness",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1966076058-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-023.jpg",
+      "original_image_filename": "若美芙™活顏保濕噴霧（舒緩爽膚水）.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-024",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 24,
+      "product_type": "formula",
+      "name_zh_tw": "密集逆齡霜",
+      "routine_roles": [
+        "moisturizer",
+        "anti-aging-treatment"
+      ],
+      "key_ingredients_text": "Matrixyl Synthe’6™胜肽複合物、補骨脂酚、Granactive AR-1423、甘油、乙醯葡萄糖胺、玻尿酸鈉、維生素E",
+      "key_ingredients": [
+        "Matrixyl Synthe’6™胜肽複合物",
+        "補骨脂酚",
+        "Granactive AR-1423",
+        "甘油",
+        "乙醯葡萄糖胺",
+        "玻尿酸鈉",
+        "維生素E"
+      ],
+      "functions_text": "高保濕修護、緊緻與淡化皺紋外觀；改善暗沉與膚色不均",
+      "derived_need_tags": [
+        "anti-aging",
+        "brightening",
+        "fine-lines",
+        "firmness",
+        "hydration"
+      ],
+      "active_flags": [
+        "bakuchiol"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/794413353-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-024.jpg",
+      "original_image_filename": "若美芙™密集逆齡霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-025",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 25,
+      "product_type": "formula",
+      "name_zh_tw": "淡斑淨白液",
+      "routine_roles": [
+        "serum",
+        "spot-treatment"
+      ],
+      "key_ingredients_text": "Illumiscin®（橄欖葉＋維生素C醣苷＋鋅）、Synovea® HR乙基間苯二酚、乙醯葡萄糖胺、尿囊素、紅沒藥醇、玻尿酸鈉、維生素E",
+      "key_ingredients": [
+        "Illumiscin®（橄欖葉＋維生素C醣苷＋鋅）",
+        "Synovea® HR乙基間苯二酚",
+        "乙醯葡萄糖胺",
+        "尿囊素",
+        "紅沒藥醇",
+        "玻尿酸鈉",
+        "維生素E"
+      ],
+      "functions_text": "淡化色斑與暗沉、均勻提亮；保濕、舒緩並支援抗氧化防護",
+      "derived_need_tags": [
+        "antioxidant",
+        "brightening",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [
+        "vitamin-c"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/794337169-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-025.jpg",
+      "original_image_filename": "若美芙™淡斑淨白液.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-026",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 26,
+      "product_type": "formula",
+      "name_zh_tw": "極致美白淡斑霜",
+      "routine_roles": [
+        "moisturizer",
+        "spot-treatment"
+      ],
+      "key_ingredients_text": "傳明酸、壬二酸二甘胺酸鉀、先進保濕複合物、補骨脂酚",
+      "key_ingredients": [
+        "傳明酸",
+        "壬二酸二甘胺酸鉀",
+        "先進保濕複合物",
+        "補骨脂酚"
+      ],
+      "functions_text": "淡化色斑及膚色不均、提亮；調理油脂、保濕並維持肌膚屏障",
+      "derived_need_tags": [
+        "barrier-support",
+        "brightening",
+        "hydration",
+        "oil-control"
+      ],
+      "active_flags": [
+        "bakuchiol"
+      ],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1478424665-p.xhtml",
+      "audit_note": "以台灣官方商品頁為主。",
+      "image": "assets/products/LDV-TW-026.jpg",
+      "original_image_filename": "若美芙™極致美白淡斑霜.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-027",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 27,
+      "product_type": "set",
+      "name_zh_tw": "雙重淡斑美白組",
+      "routine_roles": [
+        "prebuilt-set"
+      ],
+      "key_ingredients_text": "淡斑淨白液＋極致美白淡斑霜；涵蓋Illumiscin、乙基間苯二酚、傳明酸、壬二酸酯、補骨脂酚等",
+      "key_ingredients": [
+        "淡斑淨白液＋極致美白淡斑霜",
+        "涵蓋Illumiscin",
+        "乙基間苯二酚",
+        "傳明酸",
+        "壬二酸酯",
+        "補骨脂酚等"
+      ],
+      "functions_text": "以精華液加乳霜雙步驟改善色斑、暗沉與膚色不均，同時保濕舒緩",
+      "derived_need_tags": [
+        "brightening",
+        "hydration",
+        "soothing"
+      ],
+      "active_flags": [
+        "bakuchiol"
+      ],
+      "usage_constraints": [],
+      "components": [
+        "LDV-TW-025",
+        "LDV-TW-026"
+      ],
+      "official_url": "https://tw.shop.com/1531559414-p.xhtml",
+      "audit_note": "組合商品，不視為獨立配方。",
+      "image": "assets/products/LDV-TW-027.jpg",
+      "original_image_filename": "若美芙™雙重淡斑美白組.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-028",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 28,
+      "product_type": "set",
+      "name_zh_tw": "亮妍超值組",
+      "routine_roles": [
+        "prebuilt-set"
+      ],
+      "key_ingredients_text": "清爽潔膚凝膠＋亮妍保濕化妝水＋密集逆齡霜",
+      "key_ingredients": [
+        "清爽潔膚凝膠＋亮妍保濕化妝水＋密集逆齡霜"
+      ],
+      "functions_text": "完整的清潔、溫和代謝角質、保濕修護流程",
+      "derived_need_tags": [
+        "anti-aging",
+        "cleansing",
+        "hydration"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [
+        "LDV-TW-019",
+        "LDV-TW-017",
+        "LDV-TW-024"
+      ],
+      "official_url": "https://tw.shop.com/925879837-p.xhtml",
+      "audit_note": "組合商品，不視為獨立配方。",
+      "image": "assets/products/LDV-TW-028.jpg",
+      "original_image_filename": "若美芙™亮妍超值組.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-029",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 29,
+      "product_type": "tool",
+      "name_zh_tw": "粉晶兩用按摩滾輪",
+      "routine_roles": [
+        "massage-tool"
+      ],
+      "key_ingredients_text": "天然粉晶、大小雙頭設計",
+      "key_ingredients": [
+        "天然粉晶",
+        "大小雙頭設計"
+      ],
+      "functions_text": "按摩臉部與頸部、帶來冰涼舒適感，協助保養品均勻延展",
+      "derived_need_tags": [
+        "application-or-massage"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1765357160-p.xhtml",
+      "audit_note": "採用實際石材名稱「粉晶」；不沿用頁面中不一致的泛稱。",
+      "image": "assets/products/LDV-TW-029.jpg",
+      "original_image_filename": "若美芙™粉晶兩用按摩滾輪.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-030",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 30,
+      "product_type": "tool",
+      "name_zh_tw": "保養刷具組2026美安亞太區年度大會限時特惠品",
+      "routine_roles": [
+        "application-tool"
+      ],
+      "key_ingredients_text": "4支刷具；柔軟合成纖維刷毛＋矽膠面膜刷",
+      "key_ingredients": [
+        "4支刷具",
+        "柔軟合成纖維刷毛＋矽膠面膜刷"
+      ],
+      "functions_text": "減少手部直接接觸產品；用於清潔、精華、面膜與乳霜的衛生塗抹",
+      "derived_need_tags": [
+        "application-or-massage",
+        "cleansing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1898526191-p.xhtml",
+      "audit_note": "材質與用途依台灣官方商品頁整理。",
+      "image": "assets/products/LDV-TW-030.jpg",
+      "original_image_filename": "若美芙™保養刷具組2026美安亞太區年度大會限時特惠品.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-031",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 31,
+      "product_type": "tool",
+      "name_zh_tw": "冰肌按摩滾輪",
+      "routine_roles": [
+        "cooling-massage-tool"
+      ],
+      "key_ingredients_text": "冷感滾輪；台灣官方頁未標明確切金屬種類",
+      "key_ingredients": [
+        "冷感滾輪",
+        "台灣官方頁未標明確切金屬種類"
+      ],
+      "functions_text": "冰涼按摩、舒緩暫時性不適，協助保養品均勻延展",
+      "derived_need_tags": [
+        "application-or-massage",
+        "soothing"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1765357161-p.xhtml",
+      "audit_note": "官方未明示金屬材質，因此不推測為不鏽鋼或鋁。",
+      "image": "assets/products/LDV-TW-031.jpg",
+      "original_image_filename": "若美芙™冰肌按摩滾輪.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd",
+        "exact_metal_material"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    },
+    {
+      "id": "LDV-TW-032",
+      "brand": "Lumière de Vie／若美芙",
+      "market": "TW",
+      "catalog_number": 32,
+      "product_type": "tool",
+      "name_zh_tw": "男士虎眼石兩用按摩滾輪",
+      "routine_roles": [
+        "massage-tool"
+      ],
+      "key_ingredients_text": "天然虎眼石（石英家族）、大小雙頭設計",
+      "key_ingredients": [
+        "天然虎眼石（石英家族）",
+        "大小雙頭設計"
+      ],
+      "functions_text": "按摩臉部與頸部、提供清涼舒適感並協助保養品延展",
+      "derived_need_tags": [
+        "application-or-massage"
+      ],
+      "active_flags": [],
+      "usage_constraints": [],
+      "components": [],
+      "official_url": "https://tw.shop.com/1974082136-p.xhtml",
+      "audit_note": "採用實際石材名稱「虎眼石」。",
+      "image": "assets/products/LDV-TW-032.jpg",
+      "original_image_filename": "若美芙™男士虎眼石兩用按摩滾輪.jpg",
+      "price_twd": null,
+      "price_as_of": null,
+      "data_gaps": [
+        "clinically_validated_skin_type",
+        "complete_inci",
+        "current_price_twd"
+      ],
+      "provenance": {
+        "source": "若美芙產品關鍵成分與功能.xlsx",
+        "verified_date": "2026-09-17",
+        "derived_fields": [
+          "routine_roles",
+          "derived_need_tags",
+          "active_flags",
+          "usage_constraints"
+        ]
+      }
+    }
+  ]
+}

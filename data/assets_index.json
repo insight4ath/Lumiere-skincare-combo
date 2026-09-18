@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "product_assets": [
+    {
+      "product_id": "LDV-TW-001",
+      "path": "assets/products/LDV-TW-001.jpg",
+      "original_filename": "若美芙™NAD青春霜.jpg",
+      "sha256": "66e254b5617c82547b246a5ca860f9d37dc962714d2691f77111b04a5483bb9a",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-002",
+      "path": "assets/products/LDV-TW-002.jpg",
+      "original_filename": "若美芙™火山泥去角質面膜.jpg",
+      "sha256": "99924c1a819bdd39a2360b1efeb9664684b39cfaea3e15f501af468071596ea2",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-003",
+      "path": "assets/products/LDV-TW-003.jpg",
+      "original_filename": "若美芙™維他命B3極效舒妍精華.jpg",
+      "sha256": "4aa8a9967ff9d9ab6a2760c75986e5d20a82c202dbb347171a10c6b0e9d4675f",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-004",
+      "path": "assets/products/LDV-TW-004.jpg",
+      "original_filename": "若美芙™杏仁酸提亮煥膚精華液.jpg",
+      "sha256": "2ab3bfca4a58b6434bb6a91a1286da62cbf8785b1448565d0e4cd789e8d70d1d",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-005",
+      "path": "assets/products/LDV-TW-005.jpg",
+      "original_filename": "若美芙™長效潤澤護手身體霜 - 攜帶型.jpg",
+      "sha256": "c8677ff8dffb493dacb8e33f239831afc687a8d7fdfe0480aea4785c585a7569",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-006",
+      "path": "assets/products/LDV-TW-006.jpg",
+      "original_filename": "若美芙™長效潤澤護手身體霜.jpg",
+      "sha256": "a3871d86c8af54e1d1a65197e159b57a1759d075c568523a5584c3663c5b1418",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-007",
+      "path": "assets/products/LDV-TW-007.jpg",
+      "original_filename": "若美芙™藍銅胜肽活膚精華乳.jpg",
+      "sha256": "caffe765a200b88f32e5f284dee42b78857bd52179656b34533813b9f95cc356",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-008",
+      "path": "assets/products/LDV-TW-008.jpg",
+      "original_filename": "若美芙™3重玻尿酸保濕精華.jpg",
+      "sha256": "ba8e5e8c57f4decb1d3b87a96e64f95427bb61dfacbeea4a4e6a7fbad76069b2",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-009",
+      "path": "assets/products/LDV-TW-009.jpg",
+      "original_filename": "若美芙™胜肽賦活亮眼霜.jpg",
+      "sha256": "ea3d3f99ecb3e88e7c128cbc2c1647801c32ea0fe8081118f4f4041499dfcf85",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-010",
+      "path": "assets/products/LDV-TW-010.jpg",
+      "original_filename": "若美芙™A醇抗皺修護精華乳.jpg",
+      "sha256": "56412a2ac0ead928d45aaa91f6d3371b3e816eee904ea70f92412d6c9fa67bee",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-011",
+      "path": "assets/products/LDV-TW-011.jpg",
+      "original_filename": "若美芙™極致亮白防曬乳SPF50.jpg",
+      "sha256": "5918a0387f091c76136d0e91fca71a3447e8cc0c5b2ea0937cba2bd7ca908f66",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-012",
+      "path": "assets/products/LDV-TW-012.jpg",
+      "original_filename": "若美芙™彈力新生精華液.jpg",
+      "sha256": "09ebbe06f98ae172ecf5ddc7baffe46896502f711f18f20c3587e5e06611bc41",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-013",
+      "path": "assets/products/LDV-TW-013.jpg",
+      "original_filename": "若美芙™賦活煥顏精華油.jpg",
+      "sha256": "bb3150550b272f76a00af505ac6d4b995c78fe2205065faa972d117ce2c306bb",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-014",
+      "path": "assets/products/LDV-TW-014.jpg",
+      "original_filename": "若美芙™煥采活力果凍眼膜.jpg",
+      "sha256": "92c0e5aa42a3dc0719a01d952e0e3ea773f2911c1041289408cf3e1ce00a7649",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-015",
+      "path": "assets/products/LDV-TW-015.jpg",
+      "original_filename": "若美芙™維他命C美白緊緻精華液.jpg",
+      "sha256": "25d5eddd65b5bdd2a02a1302be8d2ffe672d8aef989160c2a786927b97e68a3f",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-016",
+      "path": "assets/products/LDV-TW-016.jpg",
+      "original_filename": "若美芙™青春抗皺生物纖維面膜.jpg",
+      "sha256": "004042e43760ff9457a6fab0d899bc86fd37cb22089ef5a2f2a6628a6708add3",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-017",
+      "path": "assets/products/LDV-TW-017.jpg",
+      "original_filename": "若美芙™亮妍保濕化妝水.jpg",
+      "sha256": "ca684aae65a688659af899212e7d878d8d2551f0ce56db20568ab9e4b6c197e7",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-018",
+      "path": "assets/products/LDV-TW-018.jpg",
+      "original_filename": "若美芙™紅妍保濕水凝霜(蝦紅素).jpg",
+      "sha256": "2fc3cabe93103bba24617dea27ff02fc2e0ffe69dc351d98f82f7ecaf0819701",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-019",
+      "path": "assets/products/LDV-TW-019.jpg",
+      "original_filename": "若美芙™清爽潔膚凝膠.jpg",
+      "sha256": "85f1ff3b44ffc982efb0204fa6f8dae6965911175bb54161c47d0604fa5d9c23",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-020",
+      "path": "assets/products/LDV-TW-020.jpg",
+      "original_filename": "若美芙™超導激活精華液.jpg",
+      "sha256": "bae5c27a084308f131c99af50b5f10c1e4fc4af010ad7cd87ab2f6571f83f8db",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-021",
+      "path": "assets/products/LDV-TW-021.jpg",
+      "original_filename": "若美芙™清新保濕蘆薈霜.jpg",
+      "sha256": "ee17393d68761af159e4fd4d7ae233f69e25dfd07f49592260946ac502328fa0",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-022",
+      "path": "assets/products/LDV-TW-022.jpg",
+      "original_filename": "若美芙™美白活膚雙效青春露.jpg",
+      "sha256": "90a18f4fa439e9255d3cd0934f39490ec579573abc0e743be89591973147e2ef",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-023",
+      "path": "assets/products/LDV-TW-023.jpg",
+      "original_filename": "若美芙™活顏保濕噴霧（舒緩爽膚水）.jpg",
+      "sha256": "e0543f70293efaeb253966258a241cd5f1ece22b86fed112b72158109ebbcff1",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-024",
+      "path": "assets/products/LDV-TW-024.jpg",
+      "original_filename": "若美芙™密集逆齡霜.jpg",
+      "sha256": "9910204a153111d16eb730ddce2fc1f38c41c650810d3531b5f76b550ace4358",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-025",
+      "path": "assets/products/LDV-TW-025.jpg",
+      "original_filename": "若美芙™淡斑淨白液.jpg",
+      "sha256": "b21b59eb669b193513de221406a70dad4792d4e75b25c1089516d2df27c83f24",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-026",
+      "path": "assets/products/LDV-TW-026.jpg",
+      "original_filename": "若美芙™極致美白淡斑霜.jpg",
+      "sha256": "3fe0f8d1a47129c0e07447137a539442cf37752ed69a300300e49a22bcdadea2",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-027",
+      "path": "assets/products/LDV-TW-027.jpg",
+      "original_filename": "若美芙™雙重淡斑美白組.jpg",
+      "sha256": "83d864812443a98f031d46a6d1ea648865500ecd4fa7aa769d84f94c7ab935c6",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-028",
+      "path": "assets/products/LDV-TW-028.jpg",
+      "original_filename": "若美芙™亮妍超值組.jpg",
+      "sha256": "823a3fe8bd6012a303df2a871471150e9f74fee0c706feadaacb6237da7f4526",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-029",
+      "path": "assets/products/LDV-TW-029.jpg",
+      "original_filename": "若美芙™粉晶兩用按摩滾輪.jpg",
+      "sha256": "86bb5dea45e9a13ec622f470dfec8931e1ce9bb6d0acc91f84ce2160706ed95b",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-030",
+      "path": "assets/products/LDV-TW-030.jpg",
+      "original_filename": "若美芙™保養刷具組2026美安亞太區年度大會限時特惠品.jpg",
+      "sha256": "c456d01f1027b23fe63b0a75e49061fe97e7288fdfb87f59698d77153a2a5776",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-031",
+      "path": "assets/products/LDV-TW-031.jpg",
+      "original_filename": "若美芙™冰肌按摩滾輪.jpg",
+      "sha256": "b419f307a8aed77867fea4397a2913c5bf5fdb3ff56a430935b4eaee704c89ad",
+      "width": 950,
+      "height": 950
+    },
+    {
+      "product_id": "LDV-TW-032",
+      "path": "assets/products/LDV-TW-032.jpg",
+      "original_filename": "若美芙™男士虎眼石兩用按摩滾輪.jpg",
+      "sha256": "2dcef6d2a331c07e4fd415e23d830c61dff3de0c3b3141ed155f76328166ef79",
+      "width": 950,
+      "height": 950
+    }
+  ],
+  "style_references": [
+    {
+      "style_id": "luxury-warm-minimal",
+      "path": "assets/style-references/luxury-warm-minimal-01.png",
+      "source_filename": "01_基礎補水組_完整文字版.png",
+      "sha256": "e0732fc8985e2c1197247ab794d13d2ed5fff9b932ea64a896c6e29447041f02",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "style_id": "luxury-warm-minimal",
+      "path": "assets/style-references/luxury-warm-minimal-02.png",
+      "source_filename": "02_控油煥膚組_完整文字版.png",
+      "sha256": "cbbca81d9516d8a463a0f1dfdeff88e1606d161d3e7d086daab0fea60138e331",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "style_id": "luxury-warm-minimal",
+      "path": "assets/style-references/luxury-warm-minimal-03.png",
+      "source_filename": "03_舒緩初老亮眼組_完整文字版.png",
+      "sha256": "76fb5d55fc910de7e4c9d83ef8df1bb0f69fef476efcbbf5daba8561d79a9a6d",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "style_id": "luxury-warm-minimal",
+      "path": "assets/style-references/luxury-warm-minimal-04.png",
+      "source_filename": "04_提亮防曬組_完整文字版.png",
+      "sha256": "10f3d0e8da1c50172717585d4292f416db01706d6ce70c6e489f75c0881613a4",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "style_id": "luxury-warm-minimal",
+      "path": "assets/style-references/luxury-warm-minimal-05.png",
+      "source_filename": "05_高階抗老組_完整文字版.png",
+      "sha256": "35f5a24b775616969a41d74a6d8b8ca8bb63ced8f614a0552612670a8443b06d",
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}
